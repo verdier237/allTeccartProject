@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prjConsCs2Chap123/1.0.0": {
+        "runtime": {
+          "prjConsCs2Chap123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prjConsCs2Chap123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

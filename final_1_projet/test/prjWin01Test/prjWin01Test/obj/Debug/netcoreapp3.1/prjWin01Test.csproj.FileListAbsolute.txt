@@ -1,0 +1,17 @@
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\bin\Debug\netcoreapp3.1\prjWin01Test.exe
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\bin\Debug\netcoreapp3.1\prjWin01Test.deps.json
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\bin\Debug\netcoreapp3.1\prjWin01Test.runtimeconfig.json
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\bin\Debug\netcoreapp3.1\prjWin01Test.runtimeconfig.dev.json
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\bin\Debug\netcoreapp3.1\prjWin01Test.dll
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\bin\Debug\netcoreapp3.1\prjWin01Test.pdb
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.csproj.AssemblyReference.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.csproj.GenerateResource.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.AssemblyInfoInputs.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.AssemblyInfo.cs
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.csproj.CoreCompileInputs.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.dll
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.pdb
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.genruntimeconfig.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.Form1.resources
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\final_1_projet\test\prjWin01Test\prjWin01Test\obj\Debug\netcoreapp3.1\prjWin01Test.Properties.Resources.resources

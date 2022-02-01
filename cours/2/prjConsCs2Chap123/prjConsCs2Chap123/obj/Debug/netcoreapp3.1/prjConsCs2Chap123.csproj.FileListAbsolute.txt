@@ -1,0 +1,14 @@
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.csproj.AssemblyReference.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.AssemblyInfoInputs.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.AssemblyInfo.cs
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.csproj.CoreCompileInputs.cache
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\bin\Debug\netcoreapp3.1\prjConsCs2Chap123.exe
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\bin\Debug\netcoreapp3.1\prjConsCs2Chap123.deps.json
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\bin\Debug\netcoreapp3.1\prjConsCs2Chap123.runtimeconfig.json
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\bin\Debug\netcoreapp3.1\prjConsCs2Chap123.runtimeconfig.dev.json
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\bin\Debug\netcoreapp3.1\prjConsCs2Chap123.dll
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\bin\Debug\netcoreapp3.1\prjConsCs2Chap123.pdb
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.dll
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.pdb
+C:\Users\CHICHI\OneDrive\Documents\session 2\c#\cours\2\prjConsCs2Chap123\prjConsCs2Chap123\obj\Debug\netcoreapp3.1\prjConsCs2Chap123.genruntimeconfig.cache
